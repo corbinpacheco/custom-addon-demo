@@ -22,5 +22,5 @@ spec:
       enabled: true
   chartReference:
     chart: mychart
-    repo: https://mesosphere.github.io/corbinpacheco/custom-addon-demo/
+    repo: https://corbinpacheco.github.io/custom-addon-demo/
     version: 0.1.0
